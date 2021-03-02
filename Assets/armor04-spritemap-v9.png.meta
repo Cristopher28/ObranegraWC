@@ -1,0 +1,788 @@
+fileFormatVersion: 2
+guid: 4cb1e1f446ad2174d903b1a2b02f97e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8109180596210712803
+    second: armor04-spritemap-v9_0
+  - first:
+      213: -7447979058529322012
+    second: armor04-spritemap-v9_1
+  - first:
+      213: 1241080469847330740
+    second: armor04-spritemap-v9_2
+  - first:
+      213: 5137414947672251989
+    second: armor04-spritemap-v9_3
+  - first:
+      213: -7352199137799462905
+    second: armor04-spritemap-v9_4
+  - first:
+      213: -3496719098815812557
+    second: armor04-spritemap-v9_5
+  - first:
+      213: -6707710253743780600
+    second: armor04-spritemap-v9_6
+  - first:
+      213: 6173853079391211210
+    second: armor04-spritemap-v9_7
+  - first:
+      213: -5065574440774026817
+    second: armor04-spritemap-v9_8
+  - first:
+      213: 1420769354462427171
+    second: armor04-spritemap-v9_9
+  - first:
+      213: -9175625812754968155
+    second: armor04-spritemap-v9_10
+  - first:
+      213: -4782664932654960193
+    second: armor04-spritemap-v9_11
+  - first:
+      213: 6588415792538951489
+    second: armor04-spritemap-v9_12
+  - first:
+      213: -6186928171484899739
+    second: armor04-spritemap-v9_13
+  - first:
+      213: -7715570880905221630
+    second: armor04-spritemap-v9_14
+  - first:
+      213: -3844724522317899378
+    second: armor04-spritemap-v9_15
+  - first:
+      213: -5632244357716298607
+    second: armor04-spritemap-v9_16
+  - first:
+      213: 2822150687594882983
+    second: armor04-spritemap-v9_17
+  - first:
+      213: -8047999329085171410
+    second: armor04-spritemap-v9_18
+  - first:
+      213: -5231908170380753319
+    second: armor04-spritemap-v9_19
+  - first:
+      213: -6785838796469370766
+    second: armor04-spritemap-v9_20
+  - first:
+      213: 7457241391258822680
+    second: armor04-spritemap-v9_21
+  - first:
+      213: 8169819762769779225
+    second: armor04-spritemap-v9_22
+  - first:
+      213: -7108033965636699250
+    second: armor04-spritemap-v9_23
+  - first:
+      213: -5009479129165172178
+    second: armor04-spritemap-v9_24
+  - first:
+      213: -9093923771935823422
+    second: armor04-spritemap-v9_25
+  - first:
+      213: -8567799297771910649
+    second: armor04-spritemap-v9_26
+  - first:
+      213: -3713785734271521389
+    second: armor04-spritemap-v9_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 175
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fbe574637667f80800000000000000
+      internalID: -8109180596210712803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 174
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebbfc1e18673a890800000000000000
+      internalID: -7447979058529322012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 174
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfccee9c14393110800000000000000
+      internalID: 1241080469847330740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 174
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e59cbfca3cb4740800000000000000
+      internalID: 5137414947672251989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 174
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700a78976ddb7f990800000000000000
+      internalID: -7352199137799462905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 176
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c62cb8188297fc0800000000000000
+      internalID: -3496719098815812557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_6
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 175
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d4b5d201d69e2a0800000000000000
+      internalID: -6707710253743780600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 164
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace809c4aaeeda550800000000000000
+      internalID: 6173853079391211210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 123
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9bd5a72e673b9b0800000000000000
+      internalID: -5065574440774026817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 128
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3287e78433697b310800000000000000
+      internalID: 1420769354462427171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 128
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1d5d610f0a9a080800000000000000
+      internalID: -9175625812754968155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 128
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb13269559f80adb0800000000000000
+      internalID: -4782664932654960193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_12
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 128
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f9bd2a141ce6b50800000000000000
+      internalID: 6588415792538951489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 115
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56619c79b9d932aa0800000000000000
+      internalID: -6186928171484899739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 70
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20aeb44a929cce490800000000000000
+      internalID: -7715570880905221630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 65
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89120cca6bc4aac0800000000000000
+      internalID: -3844724522317899378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 65
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1943f1af89f36d1b0800000000000000
+      internalID: -5632244357716298607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 65
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7a7b4191b4a2720800000000000000
+      internalID: 2822150687594882983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_18
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 65
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29db451043cf4090800000000000000
+      internalID: -8047999329085171410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_19
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 53
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956cdf62d378467b0800000000000000
+      internalID: -5231908170380753319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_20
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 22
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2700169419bd3d1a0800000000000000
+      internalID: -6785838796469370766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 21
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818625209817d7760800000000000000
+      internalID: 7457241391258822680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_22
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 20
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91adbd6e9c7016170800000000000000
+      internalID: 8169819762769779225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 21
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b30daa4c03b5d90800000000000000
+      internalID: -7108033965636699250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 23
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22706cf541ca7ab0800000000000000
+      internalID: -5009479129165172178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_25
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 21
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9e847d284ebc180800000000000000
+      internalID: -9093923771935823422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_26
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 25
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ac67dceef091980800000000000000
+      internalID: -8567799297771910649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_27
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 21
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d25d81d8bf57cc0800000000000000
+      internalID: -3713785734271521389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
