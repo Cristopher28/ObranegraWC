@@ -13,6 +13,8 @@ public class Player : MonoBehaviour
     Rigidbody2D TheRb;
     float axisY;
     bool IsJumping;
+    [Header("ataque")]
+    bool Isattacking;
     // Start is called before the first frame update
     void Start()
     {
@@ -57,6 +59,14 @@ public class Player : MonoBehaviour
 
             anim.SetBool("IsJumping", IsJumping);
         }
+
+
+
+        //attaque
+      /*  if (Input.GetKeyDown(KeyCode.Q))
+        {
+
+        }*/
     }
     
 
